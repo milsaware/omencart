@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/522e9378-b4fe-47eb-8a78-94abe196933f" alt="OmenCart Icon">
+</p>
+
 # OmenCart
 
 ## Overview
