@@ -5,10 +5,45 @@
 # ⚡ OmenCart  
 **A modern evolution of OpenCart, rebuilt for performance, security, and reliability.**
 
+---
+## 🚧 OmenCart - Under Development 🚧
+
+OmenCart is currently in the development phase and is **not** yet ready for production use. The platform is still being refined, and some features are still under development. 
+
+### What’s Being Worked On:
+- **System Files Reorganisation**: Restructuring the codebase for better scalability and performance.
+- **Installation Process**: Refining the installation procedure for smoother user experience.
+- **Bug Fixes & Optimisations**: Addressing any issues that arise as the platform evolves.
+
+### 🚨 Current Limitations 🚨
+- Not all features are implemented.
+- Some features are subject to change or removal in future versions.
+- Documentation is still being worked on and may not be complete.
+
+### 🛠️ Installation (WIP)
+The installation process is currently being updated. Please check back soon for a complete guide on setting up OmenCart locally or on your server.
+
+### 📦 Future Releases
+The following features are planned for future releases:
+- **Beta Release**: Expected within the next 1-2 weeks.
+- **Stable Version**: After thorough testing, the stable release will follow.
+- **Patches and Updates**: Once the stable release is live, the platform will be actively maintained, and patches will be rolled out as needed.
+
+### 🧑‍💻 Contributions
+OmenCart is open-source! If you find a bug or have an improvement in mind, feel free to leave a comment in the issue section. **Please do not fork the repository at the moment**, as major changes to the file system are taking place, and the current system setup will be rendered obsolete in upcoming commits.
+
+Your feedback is valuable, and contributions will be welcome once the project stabilises and the core structure is finalised.
+
+### 📢 Stay Updated
+To stay updated with the latest changes, releases, and announcements, please follow the repository and turn on notifications for updates.
+
+---
+
+Thank you for your interest in OmenCart! 🚀
+
+---
+
 OmenCart is a free, open-source PHP-based e-commerce solution for online merchants and an independent fork of OpenCart, designed and developed by someone who's lived on *both sides* of eCommerce — as a retailer and as a developer. It addresses years of community complaints, code neglect, and architectural flaws in the original platform.
-
-[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg?style=flat-square)](https://php.net/)
-
 
 ---
 
@@ -37,6 +72,11 @@ Because OpenCart became a last resort for many. And that’s not good enough any
 OmenCart is about fixing what’s broken *and* pushing forward.  
 It’s not just a prettier skin or an extra module — it’s a new foundation.  
 Still familiar, but cleaner, leaner, and actually reliable.
+
+---
+## Requirements
+
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg?style=flat-square)](https://php.net/)
 
 ---
 
