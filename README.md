@@ -10,7 +10,7 @@
 
 OmenCart is currently in the development phase and is **not** yet ready for production use. The platform is still being refined, and some features are still under development. 
 
-🚧 Omencart Progress Update – 24 April 2025
+## 🚧 Omencart Progress Update – 24 April 2025
 Here’s where we’re at so far:
 
 ✅ System and public files separated
