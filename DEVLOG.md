@@ -1,7 +1,7 @@
 <details open>
 <summary>📅 14 May 2025</summary>
 
-It’s been a month since I began the process of forking OpenCart and building what I’ve called **OmenCart** — a leaner, modernised, developer-first version that remains fully compatible with existing OpenCart extensions and themes.
+It’s been a month since I began the process of forking OpenCart and building what I’ve called **OmenCart** — a leaner, modernised, developer & client-friendly version that remains fully compatible with existing OpenCart extensions and themes.
 
 ---
 
