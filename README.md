@@ -10,55 +10,7 @@
 
 OmenCart is currently in the development phase and is **not** yet ready for production use. The platform is still being refined, and some features are still under development. 
 
-## 🚧 Omencart Progress Update – 24 April 2025
-Here’s where we’re at so far:
-
-✅ System and public files separated
-
-🔁 Repeat code removed or refactored
-
-🧼 jQuery stripped out in favour of Vanilla JS
-
-🗃️ Dropped legacy image tables – reworked image handling with cache-busting techniques
-
-🧹 Cleaned up and fixed broken features
-
-📦 Reduced total codebase size by 47MB (without sacrificing functionality)
-
-Still working through the rest of the admin panel – then moving on to the public-facing front end.
-
-The goal is a lean, modern, extension-friendly version of OpenCart that feels clean under the hood but familiar to devs.
-
-### 📢 Stay Updated
-To stay updated with the latest changes, releases, and announcements, please follow the repository and turn on notifications for updates.
-
-### What’s Being Worked On:
-- **System Files Reorganisation**: Restructuring the codebase for better scalability and performance.
-- **Installation Process**: Refining the installation procedure for smoother user experience.
-- **Bug Fixes & Optimisations**: Addressing any issues that arise as the platform evolves.
-
-### 🚨 Current Limitations 🚨
-- Not all features are implemented.
-- Some features are subject to change or removal in future versions.
-- Documentation is still being worked on and may not be complete.
-
-### 🛠️ Installation (WIP)
-The installation process is currently being updated. Please check back soon for a complete guide on setting up OmenCart locally or on your server.
-
-### 📦 Future Releases
-The following features are planned for future releases:
-- **Beta Release**: Expected soon.
-- **Stable Version**: After thorough testing, the stable release will follow.
-- **Patches and Updates**: Once the stable release is live, the platform will be actively maintained, and patches will be rolled out as needed.
-
-### 🧑‍💻 Contributions
-OmenCart is open-source! If you find a bug or have an improvement in mind, feel free to leave a comment in the issue section. **Please do not fork the repository at the moment**, as major changes to the file system are taking place, and the current system setup will be rendered obsolete in upcoming commits.
-
-Your feedback is valuable, and contributions will be welcome once the project stabilises and the core structure is finalised.
-
----
-
-Thank you for your interest in OmenCart! 🚀
+👉 [Read the full dev update](DEVLOG.md)
 
 ---
 
