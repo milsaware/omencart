@@ -10,8 +10,12 @@ It’s been a month since I began the process of forking OpenCart and building w
 - 🔻 **Codebase reduced** by over 58%
 - 🧹 Stripped outdated functions, legacy clutter, and thousands of lines of unnecessary comments
 - 🗂️ Reorganised core admin structure for better maintainability
-- ⚡ **Introduced AJAX navigation**
+- ⚡ **Introduced AJAX navigation** — no more full-page reloads
 - 🚫 Removed dozens of hardcoded UI quirks that made extension development painful
+- 🛒 **Revamped product listing** — removed unnecessary logic, simplified data flow, and cut the bloat to make product management faster and cleaner
+- 🔧 **Fixed the filters** — streamlined form filtering for quicker, more reliable results
+- ⌨️ **Added keyboard hotkey shortcuts** — navigate the admin panel faster with keyboard shortcuts
+- 🚫 **Removed `user_token` necessity** from the URL — cleaner and more secure URL structure
 
 ---
 
